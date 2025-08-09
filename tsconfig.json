@@ -16,9 +16,10 @@
     "types": ["node"],
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
-    "strictPropertyInitialization": true,
+    "strictPropertyInitialization": false,
     "allowImportingTsExtensions": true,
-    "noEmit": true
+    "noEmit": true,
+
   },
   "ts-node": {
     "esm": true,
